@@ -14,7 +14,7 @@ Currently building stuff and learning new things.
 ### 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwindcss,react,next,astro,firebase,cpp,py&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,py,js,ts,nodejs,tailwindcss,react,next,astro,firebase&perline=4" />
 </p>
 
 ### 📊 Stats
