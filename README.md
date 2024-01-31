@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Amr Tamer</h1>
-<h3 align="center">Frontend Developer</h3>
+### 💫 Hi There!
 
-<h3 align="left">Connect with me:</h3>
+I'm a Software Engineer in Front-End and Computer Science Student.
+Currently building stuff and learning new things.
+
+### 🌐 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/amrtamer23/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools : </h3>
+### 💻 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,firebase,figma,vscode,cpp,py,)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwindcss,react,next,astro,firebase,cpp,py&perline=4" />
+</p>
+
+### 📊 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AmrTamer23&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmrTamer23&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrTamer23&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
